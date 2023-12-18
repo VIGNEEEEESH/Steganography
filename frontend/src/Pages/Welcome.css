@@ -1,0 +1,30 @@
+@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:700);
+
+.Welcome *{
+  margin: 0;
+  padding: 0;
+}
+
+.Welcome .large{
+  color:white;
+  position:absolute;
+  top:170px;
+  font-size:80px;
+  max-width:100px;
+  padding-left:100px;
+}
+
+.Welcome .black {
+  width: 50%;
+  float: left;
+  background: #283644;
+  height: 100vh;
+}
+
+.Welcome .white{
+  width: 50%;
+  float: right;
+  background: #4D727E;
+  height: 100vh;
+}

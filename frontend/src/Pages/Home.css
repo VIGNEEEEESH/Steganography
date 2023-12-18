@@ -1,0 +1,16 @@
+.Home {
+  padding: 100px;
+}
+.Home .ant-card{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.Home .ant-card-head{
+    background-color: white;
+}
+.Home .ant-card-body{
+    background-color: #4D727E;
+    color:white;
+}
+.Home .ant-card-body:hover{
+    background-color:#4d727eda;
+}

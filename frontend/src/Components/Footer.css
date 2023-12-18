@@ -1,0 +1,58 @@
+/* Footer Container */
+.footer {
+    background-color: #000000;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  /* Social Icons */
+  .footer .social-icons {
+    text-align: center; /* Align social icons to the left */
+  }
+  
+  .footer  .social-icon {
+    color: #fff;
+    font-size: 45px;
+    margin-right: 50px;
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+  
+  .footer .social-icon:hover {
+    color: #f4cd30;
+  }
+  
+  /* Footer Logo */
+  /* .footer-logo {
+    text-align: left;
+    padding-left:30px;
+  } */
+  
+  .footer .logo {
+    max-width: 250px; /* Increase the size of the logo */
+    height: auto;
+  }
+  
+  /* Footer Navigation */
+  .footer  .footer-nav {
+    text-align: center; /* Center-align "About Us" and "Help" */
+    margin-top: 20px; /* Add spacing below social icons */
+  }
+  
+  .footer  .footer-nav h4 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  /* Additional styles for paragraphs or content */
+  .footer  .footer-nav p {
+    font-size: 16px;
+  }
+  .footer .heading-row {
+    padding-top:50px;
+    display: flex;
+    align-items: center; /* Center vertically within the row */
+    justify-content: space-around; /* Add space around the heading elements */
+  }
+  
